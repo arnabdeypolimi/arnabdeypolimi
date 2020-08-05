@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />]
+[<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>]
 
 
 <br />
