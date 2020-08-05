@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## I'm a computer science engineer!
 - 🔭 I’m currently working on [Gesture recognition][website]!
 - 🌱 I’m currently learning advance computer vision.
-- 👯 I’m looking to collaborate with other developer.
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and photography
+- ⚡ Fun fact: I love to draw and take pictures.
 
 ### Connect with me:
 
