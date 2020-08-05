@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi)](https://github.com/arnabdeypolimi/github-readme-stats)
+
+
 [website]: https://arnabdey.co/career-portfolio.html
 [twitter]: https://twitter.com/arnabdey0503
 [youtube]: https://www.youtube.com/channel/UCKVIKSWDcM2Qk6ykz3sCLbA
