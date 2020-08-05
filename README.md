@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Take your GitHub to the next level](https://dev.to/arnabdeypolimi/take-your-github-to-the-next-level-2egb)
 - [My Master Thesis](https://dev.to/arnabdeypolimi/placeholder-title-2jcp)
 <!-- BLOG-POST-LIST:END -->
 
