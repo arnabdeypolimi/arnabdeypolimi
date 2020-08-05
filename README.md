@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Arnab [website] 👋
 
 ## I'm a computer science engineer!
-- 🔭 I’m currently working on a [Gesture recognition][website]!
+- 🔭 I’m currently working on [Gesture recognition][website]!
 - 🌱 I’m currently learning advance computer vision.
 - 👯 I’m looking to collaborate with other developer.
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 
 <!-- YOUTUBE:END -->
 
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 
 <!-- BLOG-POST-LIST:END -->
 
