@@ -56,7 +56,9 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Rob the dancing robot](https://www.youtube.com/watch?v=9PGyFX9Jxzc)
+- [Dumb and Drunk](https://www.youtube.com/watch?v=fhXRA7hcF5M)
+- [Human activity and emotion recognition from RGB videos using deep learning](https://www.youtube.com/watch?v=C1PsTutNbCw)
 <!-- YOUTUBE:END -->
 
 ---
