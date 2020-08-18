@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/M8AKYRJEV6DJ)
 - [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/certificate/ND9YXC97CAWM)
 - [Natural Language Processing Nanodegree Program](https://confirm.udacity.com/SDJ9EF5F)
-- []()
 
 ---
 
