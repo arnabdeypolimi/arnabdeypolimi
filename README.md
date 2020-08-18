@@ -71,6 +71,15 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
+### 📜 Certificates
+
+- [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/G6JEG9N5XDXN)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/M8AKYRJEV6DJ)
+- [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/certificate/ND9YXC97CAWM)
+- [Natural Language Processing Nanodegree Program](https://confirm.udacity.com/SDJ9EF5F)
+- []()
+
+---
 
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
 
