@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Arnab [website] 👋
+### Hi there, I'm Arnab. [website] 👋
 
 ## I'm a computer science engineer!
 - 🔭 I’m currently working on [Gesture recognition][website]!
