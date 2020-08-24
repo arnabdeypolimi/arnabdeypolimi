@@ -85,7 +85,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabadeypolimi" alt="arnabadeypolimi" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabadeypolimi&layout=compact&hide=html" alt="arnabadeypolimi" /></p>
 
 [website]: https://arnabdey.co/career-portfolio.html
 [twitter]: https://twitter.com/arnabdey0503
