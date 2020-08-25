@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Some useful resources for GitHub readme](https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c)
 - [How I learned flutter in 3 days](https://dev.to/arnabdeypolimi/how-i-learned-flutter-in-3-days-5df4)
-- [GitHub remote graduation swag](https://dev.to/arnabdeypolimi/github-remote-graduation-swag-56j4)
 - [Take your GitHub to the next level](https://dev.to/arnabdeypolimi/take-your-github-to-the-next-level-2egb)
 - [My Master Thesis](https://dev.to/arnabdeypolimi/placeholder-title-2jcp)
 <!-- BLOG-POST-LIST:END -->
