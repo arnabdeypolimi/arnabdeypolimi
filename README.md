@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Arnab. [website] 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arnabadeypolimi" alt="arnabadeypolimi" /> </p>
 
-## I'm a computer science engineer!
-- 🔭 I’m currently working on [3D reconstruction][website]!
-- 🌱 I’m currently learning advance computer vision.
+## I'm a senior research engineer!
+- 🔭 I’m currently working on LLM, Deep Learning, and [3D reconstruction][website]!
 - 👯 I’m looking to collaborate with other researchers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and take pictures.
 
 ### Connect with me:
