@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 I build at the intersection of large language models, deep learning, and 3D human reconstruction. Always looking for interesting problems and great collaborators.
 
-🔭 **Currently working on** — LLMs, Deep Learning, and 3D Human Reconstruction
-👯 **Open to** — Research collaborations and open-source projects
-🌐 **Website** — [arnabdey.co](https://arnabdey.co)
-⚡ **Fun fact** — I love to draw and take pictures
+- 🔭 **Currently working on** — LLMs, Deep Learning, and 3D Human Reconstruction
+- 👯 **Open to** — Research collaborations and open-source projects
+- 🌐 **Website** — [arnabdey.co](https://arnabdey.co)
+- ⚡ **Fun fact** — I love to draw and take pictures
 
 ### Connect with me:
 
