@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Arnab
 
-### Senior Research Engineer | LLMs · Deep Learning · 3D Vision
+### Senior Research Engineer — 3D Vision · Neural Rendering · LLMs
 
-Senior Research Engineer at UNITH, working at the intersection of neural rendering, 3D computer vision, and large language models. 
+I build real-time conversational digital humans at [UNITH](https://unith.ai), photorealistic 3D avatars that listen, think, and respond under live latency budgets. Previously Haxion AI.
 
-Before this I worked at Haxion AI. I hold PhD in Artificial Intelligence from Université Côte d'Azur and Brown University, MSc from Politecnico di Milano. Research published at CVPR, IEEE, and EuroGraphics.
+PhD from Université Côte d'Azur and Brown University (Marie Skłodowska-Curie Fellow) on neural rendering and 3D human digitization. MSc in AI, Politecnico di Milano. Published at CVPR, Eurographics, and IEEE venues.
 
 - 🌐 **More on my website** — [arnabdey.co](https://arnabdey.co)
 
