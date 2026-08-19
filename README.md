@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ### Senior Research Engineer | LLMs · Deep Learning · 3D Vision
 
-I build at the intersection of large language models, deep learning, and 3D human reconstruction. Always looking for interesting problems and great collaborators.
+Senior Research Engineer at UNITH, working at the intersection of neural rendering, 3D computer vision, and large language models. 
 
-- 🔭 **Currently working on** — LLMs, Deep Learning, and 3D Human Reconstruction
-- 👯 **Open to** — Research collaborations and open-source projects
-- 🌐 **Website** — [arnabdey.co](https://arnabdey.co)
-- ⚡ **Fun fact** — I love to draw and take pictures
+Before this I worked at Haxion AI. I hold PhD in Artificial Intelligence from Université Côte d'Azur and Brown University, MSc from Politecnico di Milano. Research published at CVPR, IEEE, and EuroGraphics.
+
+- 🌐 **More on my website** — [arnabdey.co](https://arnabdey.co)
 
 ### Connect with me:
 
